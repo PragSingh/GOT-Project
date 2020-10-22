@@ -1,1 +1,1 @@
-# GOT-Project
+# Game of Thrones Project
